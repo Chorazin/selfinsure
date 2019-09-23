@@ -1,3 +1,2 @@
-# insurance_v001
+# Self Insure
 Prototype for Self Insure, built with Firebase, Vue, and Materialize
-### Customize configuration
